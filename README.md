@@ -11,3 +11,4 @@ You can click the Preview link to take a look at your changes.
 
 ## AWS Learning
 * AWS Spot instance: Like a bidding service. Instnce is given to highest bidder.
+* Reference: https://aws.amazon.com/solutions/case-studies/edmunds-fargate-spot/
