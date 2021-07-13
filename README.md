@@ -16,7 +16,7 @@ My name is Pramit Mitra. I'm a Data Engineer with handon experience with Cloud I
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](	https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-316193?style=for-the-badge&logo=oracle&logoColor=white)
 
 <details>
   <summary>:zap: GitHub Stats</summary>
