@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-My name is Pramit Mitra. I'm a Data Engineer with handon experience with Cloud Infrastructure and Dev-Ops Engineering. Outside of coding, I enjoy volleyball, hiking and weight training!
+My name is Pramit Mitra. I'm a Data Engineer with hands-on experience with Cloud Infrastructure and Dev-Ops Engineering. Outside of coding, I enjoy volleyball, hiking and weight training!
 
 - 👀 I’m interested in Cloud Data Engineering
 - 🌱 I’m currently learning AWS, Spark, Containerization
