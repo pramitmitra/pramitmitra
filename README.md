@@ -6,7 +6,7 @@ My name is Pramit Mitra. I'm a Data Engineer with handon experience with Cloud I
 - 🌱 I’m currently learning AWS, Spark, Containerization
 - 💞️ I’m looking to collaborate on Cloud Computing Features
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.https://www.linkedin.com/in/pramitm/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pramitm/linkedin.com/in/pramitm/)
 [![Gmail Badge](https://img.shields.io/badge/-pramit86.mitra@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:pramit86.mitra@gmail.com)](mailto:pramit86.mitra@gmail.com)
 
 ## ⚡ Technologies
