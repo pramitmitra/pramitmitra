@@ -33,14 +33,14 @@ My name is Pramit Mitra. I'm a Data Engineer with hands-on experience with Cloud
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Veer's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=V3RS&show_icons=true&hide_border=true" />
+  <img align="left" alt="Pramit's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pramitmitra&show_icons=true&hide_border=true" />
 
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Veer's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V3RS" />
+<img align="left" alt="Pramit's's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramitmitra" />
 
 </details>
 
