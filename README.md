@@ -3,7 +3,7 @@
 My name is Pramit Mitra. I'm a Data Engineer with hands-on experience with Cloud Infrastructure and Dev-Ops Engineering. Outside of coding, I enjoy volleyball, hiking and weight training!
 
 - 👀 I’m interested in Cloud Data Engineering
-- 🌱 I’m currently learning AWS, Spark, Containerization
+- 🌱 I’m currently learning Azure, AWS, Spark, Containerization
 - 💞️ I’m looking to collaborate on Cloud Computing Features
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pramitm/linkedin.com/in/pramitm/)
